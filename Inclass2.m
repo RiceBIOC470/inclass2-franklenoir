@@ -24,7 +24,7 @@ disp(num2str(ii));
 
 %% 2. Vectorize the following code (that is produce the same result in z
 %without using a loop). 
-
+%Walter Frank Lenoir 
 %a. 
 
 for ii = 1:100
@@ -57,6 +57,7 @@ z = sqrt(xx(:,1).^2 + xx(:,2).^2);
 %Pythagorean Theorem
 
 %% plotting
+%Walter Frank Lenoir 
 
 %a. make a plot of sin(x) and cos(x) vs x from x = 0 to 4*pi on the same axis where the graph
 %of sin(x) vs x is a red-dashed line and the graph of cos(x) vs x is a
